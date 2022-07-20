@@ -1,9 +1,11 @@
 import React from 'react';
+import Header from './components/index';
 
 class App extends React.Component {
   render() {
-    return (<p>Sistema Solar</p>);
+    return (<Header> </Header>);
   }
 }
 // Iniciando o projeto
+
 export default App;
