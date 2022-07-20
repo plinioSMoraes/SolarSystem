@@ -5,5 +5,5 @@ class App extends React.Component {
     return (<p>Sistema Solar</p>);
   }
 }
-
+// Iniciando o projeto
 export default App;
