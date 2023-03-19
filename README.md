@@ -1,2 +1,2 @@
 <h1> Solar System </h1>
-<a src="https://pliniosmoraes.github.io/SolarSystem/"> Click here!!! </a> 
+<a href="https://pliniosmoraes.github.io/SolarSystem/" title= "Solar System Webpage"></a>
