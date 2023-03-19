@@ -1,10 +1,13 @@
-import React from 'react';
 import PropTypes from 'prop-types'; // Importar pra usar props
+import React from 'react';
 
 class Title extends React.Component {
   render() {
     const { headline } = this.props;
-    return (<h2>{headline}</h2>); // parentes no return SEMPRE
+    return (
+      <div className="Title">
+        <h2>{headline}</h2>
+      </div>); // parentes no return SEMPRE
   }
 }
 
