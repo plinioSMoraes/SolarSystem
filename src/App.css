@@ -10,8 +10,11 @@ html {
 
 .Title {
   display: flex;
+  max-width: 600px;
   justify-content: center;
   align-items: center;
+  margin: 0 auto;
+
   border: 1px solid white;
   border-radius: 10px;
   padding: 10px;
@@ -39,7 +42,9 @@ body {
 
 .missions h1:first-of-type {
   text-align: center;
-  font-size: 20px
+  font-size: 20px;
+  margin-bottom: 40px;
+
 }
 
 .missionsCards {
